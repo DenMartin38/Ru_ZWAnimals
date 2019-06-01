@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Corpse_Alligator.label>Мёртвый аллигатор</Corpse_Alligator.label>
+  <Corpse_Alligator.description>Труп аллигатора.</Corpse_Alligator.description>
+
+  <Corpse_Donkey.label>Мёртвый осёл</Corpse_Donkey.label>
+  <Corpse_Donkey.description>Труп осла.</Corpse_Donkey.description>
+
+  <Corpse_Frog.label>Мёртвая зелёная лягушка</Corpse_Frog.label>
+  <Corpse_Frog.description>Труп зелёной лягушки.</Corpse_Frog.description>
+
+  <Corpse_FrogRed.label>Мёртвая красная лягушка</Corpse_FrogRed.label>
+  <Corpse_FrogRed.description>Труп красной лягушки.</Corpse_FrogRed.description>
+
+  <Corpse_FrogYellow.label>Мёртвая жёлтая лягушка</Corpse_FrogYellow.label>
+  <Corpse_FrogYellow.description>Труп жёлтой лягушки.</Corpse_FrogYellow.description>
+
+  <Corpse_Goat.label>Мёртвый козёл</Corpse_Goat.label>
+  <Corpse_Goat.description>Труп козла.</Corpse_Goat.description>
+
+  <Corpse_Gorilla.label>Мёртвая горилла</Corpse_Gorilla.label>
+  <Corpse_Gorilla.description>Труп гориллы.</Corpse_Gorilla.description>
+
+  <Corpse_Hedgehog.label>Мёртвый ёж</Corpse_Hedgehog.label>
+  <Corpse_Hedgehog.description>Труп ежа.</Corpse_Hedgehog.description>
+
+  <Corpse_Hyena.label>Мёртвая гиена</Corpse_Hyena.label>
+  <Corpse_Hyena.description>Труп гиены.</Corpse_Hyena.description>
+
+  <Corpse_Kangaroo.label>Мёртвый кенгуру</Corpse_Kangaroo.label>
+  <Corpse_Kangaroo.description>Труп кенгуру.</Corpse_Kangaroo.description>
+
+  <Corpse_Koala.label>Мёртвая коала</Corpse_Koala.label>
+  <Corpse_Koala.description>Труп коалы.</Corpse_Koala.description>
+
+  <Corpse_Leopard.label>Мёртвый леопард</Corpse_Leopard.label>
+  <Corpse_Leopard.description>Труп леопарда.</Corpse_Leopard.description>
+
+  <Corpse_Lion.label>Мёртвый лев</Corpse_Lion.label>
+  <Corpse_Lion.description>Труп льва.</Corpse_Lion.description>
+
+  <Corpse_Mammoth.label>Мёртвый мамонт</Corpse_Mammoth.label>
+  <Corpse_Mammoth.description>Труп мамонта.</Corpse_Mammoth.description>
+
+  <Corpse_PandaBear.label>Мёртвая панда</Corpse_PandaBear.label>
+  <Corpse_PandaBear.description>Труп панды.</Corpse_PandaBear.description>
+
+  <Corpse_Sheep.label>Мёртвая овца</Corpse_Sheep.label>
+  <Corpse_Sheep.description>Труп овцы.</Corpse_Sheep.description>
+
+  <Corpse_SnowLeopard.label>Мёртвый снежный леопард</Corpse_SnowLeopard.label>
+  <Corpse_SnowLeopard.description>Труп снежного леопарда.</Corpse_SnowLeopard.description>
+
+  <Corpse_Tiger.label>Мёртвый тигр</Corpse_Tiger.label>
+  <Corpse_Tiger.description>Труп тигра.</Corpse_Tiger.description>
+
+  <Corpse_Zebra.label>Мёртвая зебра</Corpse_Zebra.label>
+  <Corpse_Zebra.description>Труп зебры.</Corpse_Zebra.description>
+
+</LanguageData>

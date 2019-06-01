@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Kangaroo.label>Кенгуру</Kangaroo.label> 
+  <Kangaroo.description>Кенгуру - травоядное животное, но, если нужно, то он сможет себя защитить.</Kangaroo.description>
+  <Kangaroo.tools.left_claw.label>Левая лапа</Kangaroo.tools.left_claw.label>
+  <Kangaroo.tools.right_claw.label>Правая лапа</Kangaroo.tools.right_claw.label>
+  <Kangaroo.tools.head.label>Голова</Kangaroo.tools.head.label>
+  <Kangaroo.race.meatLabel>Мясо кенгуру</Kangaroo.race.meatLabel>
+
+</LanguageData>

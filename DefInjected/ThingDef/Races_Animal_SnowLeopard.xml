@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <SnowLeopard.label>Снежный леопард</SnowLeopard.label>
+  <SnowLeopard.description>Снежный леопард почти ни чем не отличается от обычных леопардов. В отличии от других больших кошек, снежный леопард не рычит. Охотятся они в одиночку и имеют густую серую шерсть.</SnowLeopard.description>
+  <SnowLeopard.tools.left_claw.label>Левые когти</SnowLeopard.tools.left_claw.label>
+  <SnowLeopard.tools.right_claw.label>Правые когти</SnowLeopard.tools.right_claw.label>
+  <SnowLeopard.tools.head.label>Голова</SnowLeopard.tools.head.label>
+  <SnowLeopard.race.meatLabel>Мясо снежного леопарда</SnowLeopard.race.meatLabel>
+  
+</LanguageData>

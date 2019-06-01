@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Tiger.label>Тигр</Tiger.label>
+  <Tiger.description>Тигры охотятся в одиночку. Их полосатый окрас ни с чем несравним, благодаря которому, они хорошо видны издалека.</Tiger.description>
+  <Tiger.tools.left_claw.label>Левые когти</Tiger.tools.left_claw.label>
+  <Tiger.tools.right_claw.label>Правые когти</Tiger.tools.right_claw.label>
+  <Tiger.tools.head.label>Голова</Tiger.tools.head.label>
+  <Tiger.race.meatLabel>Мясо тигра</Tiger.race.meatLabel>
+
+</LanguageData>

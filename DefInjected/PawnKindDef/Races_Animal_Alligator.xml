@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Alligator -->
+
+  <Alligator.label>Аллигатор</Alligator.label>
+  <Alligator.labelPlural>Аллигаторы</Alligator.labelPlural>
+  <Alligator.lifeStages.0.label>Молодой аллигатор</Alligator.lifeStages.0.label>
+  <Alligator.lifeStages.0.labelPlural>Молодые аллигаторы</Alligator.lifeStages.0.labelPlural>
+  <Alligator.lifeStages.0.labelMale>Молодой аллигатор</Alligator.lifeStages.0.labelMale>
+  <Alligator.lifeStages.0.labelMalePlural>Молодые аллигаторы</Alligator.lifeStages.0.labelMalePlural>
+  <Alligator.lifeStages.0.labelFemale>Молодая аллигатор</Alligator.lifeStages.0.labelFemale>
+  <Alligator.lifeStages.0.labelFemalePlural>Молодые аллигаторы</Alligator.lifeStages.0.labelFemalePlural>
+
+  <Alligator.lifeStages.1.label>Аллигатор</Alligator.lifeStages.1.label>
+  <Alligator.lifeStages.1.labelPlural>Аллигатор</Alligator.lifeStages.1.labelPlural>
+  <Alligator.lifeStages.1.labelMale>Аллигатор</Alligator.lifeStages.1.labelMale>
+  <Alligator.lifeStages.1.labelMalePlural>Аллигаторы</Alligator.lifeStages.1.labelMalePlural>
+  <Alligator.lifeStages.1.labelFemale>Аллигатор</Alligator.lifeStages.1.labelFemale>
+  <Alligator.lifeStages.1.labelFemalePlural>Аллигаторы</Alligator.lifeStages.1.labelFemalePlural>
+
+  <Alligator.lifeStages.2.label>Аллигатор</Alligator.lifeStages.2.label>
+  <Alligator.lifeStages.2.labelPlural>Аллигаторы</Alligator.lifeStages.2.labelPlural>
+  <Alligator.lifeStages.2.labelMale>Аллигатор</Alligator.lifeStages.2.labelMale>
+  <Alligator.lifeStages.2.labelMalePlural>Аллигаторы</Alligator.lifeStages.2.labelMalePlural>
+  <Alligator.lifeStages.2.labelFemale>Аллигатор</Alligator.lifeStages.2.labelFemale>
+  <Alligator.lifeStages.2.labelFemalePlural>Аллигаторы</Alligator.lifeStages.2.labelFemalePlural>
+
+  <Alligator.labelMale>Аллигатор</Alligator.labelMale>
+  <Alligator.labelMalePlural>Аллигаторы</Alligator.labelMalePlural>
+  <Alligator.labelFemale>Аллигатор</Alligator.labelFemale>
+  <Alligator.labelFemalePlural>Аллигаторы</Alligator.labelFemalePlural>
+
+
+</LanguageData>

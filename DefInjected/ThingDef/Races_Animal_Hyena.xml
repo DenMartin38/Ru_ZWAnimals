@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Hyena.label>Гиена</Hyena.label>
+  <Hyena.description>Гиены - это хищники-падальщики.</Hyena.description>
+  <Hyena.tools.left_claw.label>Левая лапа</Hyena.tools.left_claw.label>
+  <Hyena.tools.right_claw.label>Правая лапа</Hyena.tools.right_claw.label>
+  <Hyena.tools.head.label>Голова</Hyena.tools.head.label>
+  <Hyena.race.meatLabel>Мясо гиены</Hyena.race.meatLabel>
+
+</LanguageData>

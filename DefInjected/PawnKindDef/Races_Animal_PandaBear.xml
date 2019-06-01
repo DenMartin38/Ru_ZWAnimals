@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- PandaBear -->
+
+  <PandaBear.label>Панда</PandaBear.label>
+  <PandaBear.labelPlural>Панды</PandaBear.labelPlural>
+  <PandaBear.lifeStages.0.label>Панда</PandaBear.lifeStages.0.label>
+  <PandaBear.lifeStages.0.labelPlural>Молодые панды</PandaBear.lifeStages.0.labelPlural>
+  <PandaBear.lifeStages.0.labelMale>Панда</PandaBear.lifeStages.0.labelMale>
+  <PandaBear.lifeStages.0.labelMalePlural>Молодые панды</PandaBear.lifeStages.0.labelMalePlural>
+  <PandaBear.lifeStages.0.labelFemale>Панда</PandaBear.lifeStages.0.labelFemale>
+  <PandaBear.lifeStages.0.labelFemalePlural>Молодые панды</PandaBear.lifeStages.0.labelFemalePlural>
+
+  <PandaBear.lifeStages.1.label>Панда</PandaBear.lifeStages.1.label>
+  <PandaBear.lifeStages.1.labelPlural>Панды</PandaBear.lifeStages.1.labelPlural>
+  <PandaBear.lifeStages.1.labelMale>Панда</PandaBear.lifeStages.1.labelMale>
+  <PandaBear.lifeStages.1.labelMalePlural>Панды</PandaBear.lifeStages.1.labelMalePlural>
+  <PandaBear.lifeStages.1.labelFemale>Панда</PandaBear.lifeStages.1.labelFemale>
+  <PandaBear.lifeStages.1.labelFemalePlural>Панды</PandaBear.lifeStages.1.labelFemalePlural>
+
+  <PandaBear.lifeStages.2.label>Панда</PandaBear.lifeStages.2.label>
+  <PandaBear.lifeStages.2.labelPlural>Панды</PandaBear.lifeStages.2.labelPlural>
+  <PandaBear.lifeStages.2.labelMale>Панда</PandaBear.lifeStages.2.labelMale>
+  <PandaBear.lifeStages.2.labelMalePlural>Панды</PandaBear.lifeStages.2.labelMalePlural>
+  <PandaBear.lifeStages.2.labelFemale>Панда</PandaBear.lifeStages.2.labelFemale>
+  <PandaBear.lifeStages.2.labelFemalePlural>Панды</PandaBear.lifeStages.2.labelFemalePlural>
+
+  <PandaBear.labelMale>Панда</PandaBear.labelMale>
+  <PandaBear.labelMalePlural>Панды</PandaBear.labelMalePlural>
+  <PandaBear.labelFemale>Панда</PandaBear.labelFemale>
+  <PandaBear.labelFemalePlural>Панды</PandaBear.labelFemalePlural>
+
+
+</LanguageData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Hedgehog.label>Ёж</Hedgehog.label>
+  <Hedgehog.description>Ежи - это маленькие млекопитающие, защищённые иглами на спине и боках. Они не любят, когда их тревожат, так как очень пугливые.</Hedgehog.description>
+  <Hedgehog.tools.head.label>Голова</Hedgehog.tools.head.label>
+  <Hedgehog.race.meatLabel>Мясо ежа</Hedgehog.race.meatLabel>
+
+</LanguageData>

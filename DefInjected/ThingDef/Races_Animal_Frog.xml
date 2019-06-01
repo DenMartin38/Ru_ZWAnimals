@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Frog.label>Зелёная лягушка</Frog.label>
+  <Frog.description>Зелёная лягушка - это безобидное существо, которое не представляет опасности.</Frog.description>
+  <Frog.tools.head.label>Голова</Frog.tools.head.label>
+  <Frog.race.meatLabel>Мясо лягушки</Frog.race.meatLabel>
+
+  <FrogRed.label>Красная лягушка</FrogRed.label>
+  <FrogRed.description>Красная лягушка - это безобидное существо, которое не представляет опасности.</FrogRed.description>
+  <FrogRed.tools.head.label>Голова</FrogRed.tools.head.label>
+
+  <FrogYellow.label>Жёлтая лягушка</FrogYellow.label>
+  <FrogYellow.description>Жёлтая лягушка - это безобидное существо, которое не представляет опасности.</FrogYellow.description>
+  <FrogYellow.tools.head.label>Голова</FrogYellow.tools.head.label>
+
+</LanguageData>

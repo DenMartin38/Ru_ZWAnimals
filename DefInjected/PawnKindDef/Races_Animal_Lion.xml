@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Lion -->
+
+  <Lion.label>Лев</Lion.label>
+  <Lion.labelPlural>Львы</Lion.labelPlural>
+  <Lion.lifeStages.0.label>Львёнок</Lion.lifeStages.0.label>
+  <Lion.lifeStages.0.labelPlural>Львята</Lion.lifeStages.0.labelPlural>
+  <Lion.lifeStages.0.labelMale>Львёнок</Lion.lifeStages.0.labelMale>
+  <Lion.lifeStages.0.labelMalePlural>Львята</Lion.lifeStages.0.labelMalePlural>
+  <Lion.lifeStages.0.labelFemale>Львёнок</Lion.lifeStages.0.labelFemale>
+  <Lion.lifeStages.0.labelFemalePlural>Львята</Lion.lifeStages.0.labelFemalePlural>
+
+  <Lion.lifeStages.1.label>Лев</Lion.lifeStages.1.label>
+  <Lion.lifeStages.1.labelPlural>Львы</Lion.lifeStages.1.labelPlural>
+  <Lion.lifeStages.1.labelMale>Лев</Lion.lifeStages.1.labelMale>
+  <Lion.lifeStages.1.labelMalePlural>Львы</Lion.lifeStages.1.labelMalePlural>
+  <Lion.lifeStages.1.labelFemale>Львица</Lion.lifeStages.1.labelFemale>
+  <Lion.lifeStages.1.labelFemalePlural>Львицы</Lion.lifeStages.1.labelFemalePlural>
+
+  <Lion.lifeStages.2.label>Лев</Lion.lifeStages.2.label>
+  <Lion.lifeStages.2.labelPlural>Львы</Lion.lifeStages.2.labelPlural>
+  <Lion.lifeStages.2.labelMale>Лев</Lion.lifeStages.2.labelMale>
+  <Lion.lifeStages.2.labelMalePlural>Львы</Lion.lifeStages.2.labelMalePlural>
+  <Lion.lifeStages.2.labelFemale>Львица</Lion.lifeStages.2.labelFemale>
+  <Lion.lifeStages.2.labelFemalePlural>Львицы</Lion.lifeStages.2.labelFemalePlural>
+
+  <Lion.labelMale>Лев</Lion.labelMale>
+  <Lion.labelMalePlural>Львы</Lion.labelMalePlural>
+  <Lion.labelFemale>Львица</Lion.labelFemale>
+  <Lion.labelFemalePlural>Львицы</Lion.labelFemalePlural>
+
+
+</LanguageData>

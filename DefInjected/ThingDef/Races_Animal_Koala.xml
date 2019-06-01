@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Koala.label>Коала</Koala.label>
+  <Koala.description>Коалы - мирные существа и питаются в основном растениями.</Koala.description>
+  <Koala.tools.left_fist.label>Левый кулак</Koala.tools.left_fist.label>
+  <Koala.tools.right_fist.label>Правый кулак</Koala.tools.right_fist.label>
+  <Koala.tools.head.label>Голова</Koala.tools.head.label>
+  <Koala.race.meatLabel>Мясо коалы</Koala.race.meatLabel>
+
+</LanguageData>

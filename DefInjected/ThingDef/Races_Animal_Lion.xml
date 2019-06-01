@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <Lion.label>Лев</Lion.label>
+  <Lion.description>Самая опасная кошка и царь зверей - лев. Чаще всего его можно встретить в стае, но иногда и в одиночку. Их длинные, острые клыки и когти делают львов грозными охотниками. Для своего веса они очень быстры и резки. Если же он выбрал себе жертву, то у нее мало шансов выжить.</Lion.description>
+  <Lion.tools.left_claw.label>Левые когти</Lion.tools.left_claw.label>
+  <Lion.tools.right_claw.label>Правые когти</Lion.tools.right_claw.label>
+  <Lion.tools.head.label>Голова</Lion.tools.head.label>
+  <Lion.race.meatLabel>Мясо льва</Lion.race.meatLabel>
+
+</LanguageData>

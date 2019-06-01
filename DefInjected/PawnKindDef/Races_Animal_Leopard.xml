@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Leopard -->
+
+  <Leopard.label>Леопард</Leopard.label>
+  <Leopard.labelPlural>Леопарды</Leopard.labelPlural>
+  <Leopard.lifeStages.0.label>Молодой леопард</Leopard.lifeStages.0.label>
+  <Leopard.lifeStages.0.labelPlural>Молодые леопарды</Leopard.lifeStages.0.labelPlural>
+  <Leopard.lifeStages.0.labelMale>Молодой леопард</Leopard.lifeStages.0.labelMale>
+  <Leopard.lifeStages.0.labelMalePlural>Молодые леопарды</Leopard.lifeStages.0.labelMalePlural>
+  <Leopard.lifeStages.0.labelFemale>Молодой леопард</Leopard.lifeStages.0.labelFemale>
+  <Leopard.lifeStages.0.labelFemalePlural>Молодые леопарды</Leopard.lifeStages.0.labelFemalePlural>
+
+  <Leopard.lifeStages.1.label>Леопард</Leopard.lifeStages.1.label>
+  <Leopard.lifeStages.1.labelPlural>Леопарды</Leopard.lifeStages.1.labelPlural>
+  <Leopard.lifeStages.1.labelMale>Леопард</Leopard.lifeStages.1.labelMale>
+  <Leopard.lifeStages.1.labelMalePlural>Леопарды</Leopard.lifeStages.1.labelMalePlural>
+  <Leopard.lifeStages.1.labelFemale>Леопард</Leopard.lifeStages.1.labelFemale>
+  <Leopard.lifeStages.1.labelFemalePlural>Леопарды</Leopard.lifeStages.1.labelFemalePlural>
+
+  <Leopard.lifeStages.2.label>Леопард</Leopard.lifeStages.2.label>
+  <Leopard.lifeStages.2.labelPlural>Леопарды</Leopard.lifeStages.2.labelPlural>
+  <Leopard.lifeStages.2.labelMale>Леопард</Leopard.lifeStages.2.labelMale>
+  <Leopard.lifeStages.2.labelMalePlural>Леопарды</Leopard.lifeStages.2.labelMalePlural>
+  <Leopard.lifeStages.2.labelFemale>Леопард</Leopard.lifeStages.2.labelFemale>
+  <Leopard.lifeStages.2.labelFemalePlural>Леопарды</Leopard.lifeStages.2.labelFemalePlural>
+
+  <Leopard.labelMale>Леопард</Leopard.labelMale>
+  <Leopard.labelMalePlural>Леопарды</Leopard.labelMalePlural>
+  <Leopard.labelFemale>Леопард</Leopard.labelFemale>
+  <Leopard.labelFemalePlural>Леопарды</Leopard.labelFemalePlural>
+
+
+</LanguageData>

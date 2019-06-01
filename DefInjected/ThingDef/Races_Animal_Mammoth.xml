@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Mammoth.label>Мамонт</Mammoth.label>
+  <Mammoth.description>Мамонт - это давний родственник слонов. Он может использовать свои бивни как инструмент для перемещения объектов или как смертельное оружие.</Mammoth.description>
+  <Mammoth.tools.tusk.label>Бивень</Mammoth.tools.tusk.label>
+  <Mammoth.tools.left_foot.label>Левая нога </Mammoth.tools.left_foot.label>
+  <Mammoth.tools.right_foot.label>Правая нога </Mammoth.tools.right_foot.label>
+  <Mammoth.tools.head.label>Голова</Mammoth.tools.head.label>
+  <Mammoth.race.meatLabel>Мясо мамонта</Mammoth.race.meatLabel>
+
+</LanguageData>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Zebra.label>Зебра</Zebra.label>
+  <Zebra.description>Зебра.</Zebra.description>
+  <Zebra.tools.left_hoof.label>Левое копыто</Zebra.tools.left_hoof.label>
+  <Zebra.tools.right_hoof.label>Правое копыто</Zebra.tools.right_hoof.label>
+  <Zebra.tools.head.label>Голова</Zebra.tools.head.label>
+  <Zebra.race.meatLabel>Мясо зебры</Zebra.race.meatLabel>
+
+</LanguageData>

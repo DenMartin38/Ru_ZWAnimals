@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Donkey -->
+
+  <Donkey.label>Осёл</Donkey.label>
+  <Donkey.labelPlural>Ослы</Donkey.labelPlural>
+
+  <Donkey.lifeStages.0.label>Ослик</Donkey.lifeStages.0.label>
+  <Donkey.lifeStages.0.labelPlural>Ослики</Donkey.lifeStages.0.labelPlural>
+  <Donkey.lifeStages.0.labelMale>Ослик</Donkey.lifeStages.0.labelMale>
+  <Donkey.lifeStages.0.labelMalePlural>Ослики</Donkey.lifeStages.0.labelMalePlural>
+  <Donkey.lifeStages.0.labelFemale>Ослица</Donkey.lifeStages.0.labelFemale>
+  <Donkey.lifeStages.0.labelFemalePlural>Ослихи</Donkey.lifeStages.0.labelFemalePlural>
+
+  <Donkey.lifeStages.1.label>Осёл</Donkey.lifeStages.1.label>
+  <Donkey.lifeStages.1.labelPlural>Ослы</Donkey.lifeStages.1.labelPlural>
+  <Donkey.lifeStages.1.labelMale>Осёл</Donkey.lifeStages.1.labelMale>
+  <Donkey.lifeStages.1.labelMalePlural>Ослы</Donkey.lifeStages.1.labelMalePlural>
+  <Donkey.lifeStages.1.labelFemale>Ослица</Donkey.lifeStages.1.labelFemale>
+  <Donkey.lifeStages.1.labelFemalePlural>Ослицы</Donkey.lifeStages.1.labelFemalePlural>
+
+  <Donkey.lifeStages.2.label>Осёл</Donkey.lifeStages.2.label>
+  <Donkey.lifeStages.2.labelPlural>Ослы</Donkey.lifeStages.2.labelPlural>
+  <Donkey.lifeStages.2.labelMale>Осёл</Donkey.lifeStages.2.labelMale>
+  <Donkey.lifeStages.2.labelMalePlural>Ослы</Donkey.lifeStages.2.labelMalePlural>
+  <Donkey.lifeStages.2.labelFemale>Ослица</Donkey.lifeStages.2.labelFemale>
+  <Donkey.lifeStages.2.labelFemalePlural>Ослицы</Donkey.lifeStages.2.labelFemalePlural>
+
+  <Donkey.labelMale>Осёл</Donkey.labelMale>
+  <Donkey.labelMalePlural>Ослы</Donkey.labelMalePlural>
+  <Donkey.labelFemale>Ослица</Donkey.labelFemale>
+  <Donkey.labelFemalePlural>Ослицы</Donkey.labelFemalePlural>
+
+
+</LanguageData>

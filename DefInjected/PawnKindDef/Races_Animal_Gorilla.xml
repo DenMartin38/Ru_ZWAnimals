@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Gorilla -->
+
+  <Gorilla.label>Горилла</Gorilla.label>
+  <Gorilla.labelPlural>Гориллы</Gorilla.labelPlural>
+  <Gorilla.lifeStages.0.label>Молодая горилла</Gorilla.lifeStages.0.label>
+  <Gorilla.lifeStages.0.labelPlural>Молодые гориллы</Gorilla.lifeStages.0.labelPlural>
+  <Gorilla.lifeStages.0.labelMale>Молодая горилла</Gorilla.lifeStages.0.labelMale>
+  <Gorilla.lifeStages.0.labelMalePlural>Молодые гориллы</Gorilla.lifeStages.0.labelMalePlural>
+  <Gorilla.lifeStages.0.labelFemale>Молодая горилла</Gorilla.lifeStages.0.labelFemale>
+  <Gorilla.lifeStages.0.labelFemalePlural>Молодые гориллы</Gorilla.lifeStages.0.labelFemalePlural>
+
+  <Gorilla.lifeStages.1.label>Горилла</Gorilla.lifeStages.1.label>
+  <Gorilla.lifeStages.1.labelPlural>Гориллы</Gorilla.lifeStages.1.labelPlural>
+  <Gorilla.lifeStages.1.labelMale>Горилла</Gorilla.lifeStages.1.labelMale>
+  <Gorilla.lifeStages.1.labelMalePlural>Гориллы</Gorilla.lifeStages.1.labelMalePlural>
+  <Gorilla.lifeStages.1.labelFemale>Горилла</Gorilla.lifeStages.1.labelFemale>
+  <Gorilla.lifeStages.1.labelFemalePlural>Гориллы</Gorilla.lifeStages.1.labelFemalePlural>
+
+  <Gorilla.lifeStages.2.label>Горилла</Gorilla.lifeStages.2.label>
+  <Gorilla.lifeStages.2.labelPlural>Гориллы</Gorilla.lifeStages.2.labelPlural>
+  <Gorilla.lifeStages.2.labelMale>Горилла</Gorilla.lifeStages.2.labelMale>
+  <Gorilla.lifeStages.2.labelMalePlural>Гориллы</Gorilla.lifeStages.2.labelMalePlural>
+  <Gorilla.lifeStages.2.labelFemale>Гориллы</Gorilla.lifeStages.2.labelFemale>
+  <Gorilla.lifeStages.2.labelFemalePlural>Гориллы</Gorilla.lifeStages.2.labelFemalePlural>
+
+  <Gorilla.labelMale>Горилла</Gorilla.labelMale>
+  <Gorilla.labelMalePlural>Гориллы</Gorilla.labelMalePlural>
+  <Gorilla.labelFemale>Горилла</Gorilla.labelFemale>
+  <Gorilla.labelFemalePlural>Гориллы</Gorilla.labelFemalePlural>
+
+
+</LanguageData>

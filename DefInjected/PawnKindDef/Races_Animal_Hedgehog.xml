@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Hedgehog -->
+
+  <Hedgehog.label>Ёж</Hedgehog.label>
+  <Hedgehog.labelPlural>Ежи</Hedgehog.labelPlural>
+  <Hedgehog.lifeStages.0.label>Ежонок</Hedgehog.lifeStages.0.label>
+  <Hedgehog.lifeStages.0.labelPlural>Ежата</Hedgehog.lifeStages.0.labelPlural>
+  <Hedgehog.lifeStages.0.labelMale>Ежонок</Hedgehog.lifeStages.0.labelMale>
+  <Hedgehog.lifeStages.0.labelMalePlural>Ежата</Hedgehog.lifeStages.0.labelMalePlural>
+  <Hedgehog.lifeStages.0.labelFemale>Ежонок</Hedgehog.lifeStages.0.labelFemale>
+  <Hedgehog.lifeStages.0.labelFemalePlural>Ежата</Hedgehog.lifeStages.0.labelFemalePlural>
+
+  <Hedgehog.lifeStages.1.label>Ёж</Hedgehog.lifeStages.1.label>
+  <Hedgehog.lifeStages.1.labelPlural>Ежи</Hedgehog.lifeStages.1.labelPlural>
+  <Hedgehog.lifeStages.1.labelMale>Ёж</Hedgehog.lifeStages.1.labelMale>
+  <Hedgehog.lifeStages.1.labelMalePlural>Ежи</Hedgehog.lifeStages.1.labelMalePlural>
+  <Hedgehog.lifeStages.1.labelFemale>Ежиха</Hedgehog.lifeStages.1.labelFemale>
+  <Hedgehog.lifeStages.1.labelFemalePlural>Ежихи</Hedgehog.lifeStages.1.labelFemalePlural>
+
+  <Hedgehog.lifeStages.2.label>Ёж</Hedgehog.lifeStages.2.label>
+  <Hedgehog.lifeStages.2.labelPlural>Ежи</Hedgehog.lifeStages.2.labelPlural>
+  <Hedgehog.lifeStages.2.labelMale>Ёж</Hedgehog.lifeStages.2.labelMale>
+  <Hedgehog.lifeStages.2.labelMalePlural>Ежи</Hedgehog.lifeStages.2.labelMalePlural>
+  <Hedgehog.lifeStages.2.labelFemale>Ежиха</Hedgehog.lifeStages.2.labelFemale>
+  <Hedgehog.lifeStages.2.labelFemalePlural>Ежихи</Hedgehog.lifeStages.2.labelFemalePlural>
+
+  <Hedgehog.labelMale>Ёж</Hedgehog.labelMale>
+  <Hedgehog.labelMalePlural>Ежи</Hedgehog.labelMalePlural>
+  <Hedgehog.labelFemale>Ежиха</Hedgehog.labelFemale>
+  <Hedgehog.labelFemalePlural>Ежихи</Hedgehog.labelFemalePlural>
+
+
+</LanguageData>

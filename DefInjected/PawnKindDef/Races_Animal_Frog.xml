@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Green Frog -->
+
+  <Frog.label>Зелёная лягушка</Frog.label>
+  <Frog.labelPlural>Зелёные лягушки</Frog.labelPlural>
+  <Frog.lifeStages.0.label>Молодая зелёная лягушка</Frog.lifeStages.0.label>
+  <Frog.lifeStages.0.labelPlural>Молодые зелёные лягушки</Frog.lifeStages.0.labelPlural>
+  <Frog.lifeStages.0.labelMale>Молодая зелёная лягушка</Frog.lifeStages.0.labelMale>
+  <Frog.lifeStages.0.labelMalePlural>Молодые зелёные лягушки</Frog.lifeStages.0.labelMalePlural>
+  <Frog.lifeStages.0.labelFemale>Молодая зелёная лягушка</Frog.lifeStages.0.labelFemale>
+  <Frog.lifeStages.0.labelFemalePlural>Молодые зелёные лягушки</Frog.lifeStages.0.labelFemalePlural>
+
+  <Frog.lifeStages.1.label>Зелёная лягушка</Frog.lifeStages.1.label>
+  <Frog.lifeStages.1.labelPlural>Зелёные лягушки</Frog.lifeStages.1.labelPlural>
+  <Frog.lifeStages.1.labelMale>Зелёная лягушка</Frog.lifeStages.1.labelMale>
+  <Frog.lifeStages.1.labelMalePlural>Зелёные лягушки</Frog.lifeStages.1.labelMalePlural>
+  <Frog.lifeStages.1.labelFemale>Зелёная лягушка</Frog.lifeStages.1.labelFemale>
+  <Frog.lifeStages.1.labelFemalePlural>Зелёные лягушки</Frog.lifeStages.1.labelFemalePlural>
+
+  <Frog.lifeStages.2.label>Зелёная лягушка</Frog.lifeStages.2.label>
+  <Frog.lifeStages.2.labelPlural>Зелёные лягушки</Frog.lifeStages.2.labelPlural>
+  <Frog.lifeStages.2.labelMale>Зелёная лягушка</Frog.lifeStages.2.labelMale>
+  <Frog.lifeStages.2.labelMalePlural>Зелёная лягушки</Frog.lifeStages.2.labelMalePlural>
+  <Frog.lifeStages.2.labelFemale>Зелёная лягушка</Frog.lifeStages.2.labelFemale>
+  <Frog.lifeStages.2.labelFemalePlural>Зелёные лягушки</Frog.lifeStages.2.labelFemalePlural>
+
+  <Frog.labelMale>Зелёная лягушка</Frog.labelMale>
+  <Frog.labelMalePlural>Зелёные лягушки</Frog.labelMalePlural>
+  <Frog.labelFemale>Зелёная лягушка</Frog.labelFemale>
+  <Frog.labelFemalePlural>Зелёные лягушки</Frog.labelFemalePlural>
+
+
+  <!-- Red Frog -->
+
+  <FrogRed.label>Красная лягушка</FrogRed.label>
+  <FrogRed.labelPlural>Красные лягушки</FrogRed.labelPlural>
+  <FrogRed.lifeStages.0.label>Молодая красная лягушка</FrogRed.lifeStages.0.label>
+  <FrogRed.lifeStages.0.labelPlural>Молодые красные лягушки</FrogRed.lifeStages.0.labelPlural>
+  <FrogRed.lifeStages.0.labelMale>Молодая красная лягушка</FrogRed.lifeStages.0.labelMale>
+  <FrogRed.lifeStages.0.labelMalePlural>Молодые красные лягушки</FrogRed.lifeStages.0.labelMalePlural>
+  <FrogRed.lifeStages.0.labelFemale>Молодая красная лягушка</FrogRed.lifeStages.0.labelFemale>
+  <FrogRed.lifeStages.0.labelFemalePlural>Молодые красные лягушки</FrogRed.lifeStages.0.labelFemalePlural>
+
+  <FrogRed.lifeStages.1.label>Красная лягушка</FrogRed.lifeStages.1.label>
+  <FrogRed.lifeStages.1.labelPlural>Красные лягушки</FrogRed.lifeStages.1.labelPlural>
+  <FrogRed.lifeStages.1.labelMale>Красная лягушка</FrogRed.lifeStages.1.labelMale>
+  <FrogRed.lifeStages.1.labelMalePlural>Красные лягушки</FrogRed.lifeStages.1.labelMalePlural>
+  <FrogRed.lifeStages.1.labelFemale>Красная лягушка</FrogRed.lifeStages.1.labelFemale>
+  <FrogRed.lifeStages.1.labelFemalePlural>Красные лягушки</FrogRed.lifeStages.1.labelFemalePlural>
+
+  <FrogRed.lifeStages.2.label>Красная лягушка</FrogRed.lifeStages.2.label>
+  <FrogRed.lifeStages.2.labelPlural>Красные лягушки</FrogRed.lifeStages.2.labelPlural>
+  <FrogRed.lifeStages.2.labelMale>Красная лягушка</FrogRed.lifeStages.2.labelMale>
+  <FrogRed.lifeStages.2.labelMalePlural>Красные лягушки</FrogRed.lifeStages.2.labelMalePlural>
+  <FrogRed.lifeStages.2.labelFemale>Красная лягушка</FrogRed.lifeStages.2.labelFemale>
+  <FrogRed.lifeStages.2.labelFemalePlural>Красные лягушки</FrogRed.lifeStages.2.labelFemalePlural>
+
+  <FrogRed.labelMale>Красная лягушка</FrogRed.labelMale>
+  <FrogRed.labelMalePlural>Красные лягушки</FrogRed.labelMalePlural>
+  <FrogRed.labelFemale>Красная лягушка</FrogRed.labelFemale>
+  <FrogRed.labelFemalePlural>Красные лягушки</FrogRed.labelFemalePlural>
+
+
+  <!-- Yellow frog -->
+
+  <FrogYellow.label>Жёлтая лягушка</FrogYellow.label>
+  <FrogYellow.labelPlural>Жёлтые лягушки</FrogYellow.labelPlural>
+  <FrogYellow.lifeStages.0.label>Молодая жёлтая лягушка</FrogYellow.lifeStages.0.label>
+  <FrogYellow.lifeStages.0.labelPlural>Молодые жёлтые лягушки</FrogYellow.lifeStages.0.labelPlural>
+  <FrogYellow.lifeStages.0.labelMale>Молодая жёлтая лягушка</FrogYellow.lifeStages.0.labelMale>
+  <FrogYellow.lifeStages.0.labelMalePlural>Молодые жёлтые лягушки</FrogYellow.lifeStages.0.labelMalePlural>
+  <FrogYellow.lifeStages.0.labelFemale>Молодая жёлтая лягушка</FrogYellow.lifeStages.0.labelFemale>
+  <FrogYellow.lifeStages.0.labelFemalePlural>Молодые жёлтые лягушки</FrogYellow.lifeStages.0.labelFemalePlural>
+
+  <FrogYellow.lifeStages.1.label>Жёлтая лягушка</FrogYellow.lifeStages.1.label>
+  <FrogYellow.lifeStages.1.labelPlural>Жёлтые лягушки</FrogYellow.lifeStages.1.labelPlural>
+  <FrogYellow.lifeStages.1.labelMale>Жёлтая лягушка</FrogYellow.lifeStages.1.labelMale>
+  <FrogYellow.lifeStages.1.labelMalePlural>Жёлтые лягушки</FrogYellow.lifeStages.1.labelMalePlural>
+  <FrogYellow.lifeStages.1.labelFemale>Жёлтая лягушка</FrogYellow.lifeStages.1.labelFemale>
+  <FrogYellow.lifeStages.1.labelFemalePlural>Жёлтые лягушки</FrogYellow.lifeStages.1.labelFemalePlural>
+
+  <FrogYellow.lifeStages.2.label>Жёлтая лягушка</FrogYellow.lifeStages.2.label>
+  <FrogYellow.lifeStages.2.labelPlural>Жёлтые лягушки</FrogYellow.lifeStages.2.labelPlural>
+  <FrogYellow.lifeStages.2.labelMale>Жёлтая лягушка</FrogYellow.lifeStages.2.labelMale>
+  <FrogYellow.lifeStages.2.labelMalePlural>Жёлтые лягушки</FrogYellow.lifeStages.2.labelMalePlural>
+  <FrogYellow.lifeStages.2.labelFemale>Жёлтая лягушка</FrogYellow.lifeStages.2.labelFemale>
+  <FrogYellow.lifeStages.2.labelFemalePlural>Жёлтые лягушки</FrogYellow.lifeStages.2.labelFemalePlural>
+
+  <FrogYellow.labelMale>Жёлтая лягушка</FrogYellow.labelMale>
+  <FrogYellow.labelMalePlural>Жёлтые лягушки</FrogYellow.labelMalePlural>
+  <FrogYellow.labelFemale>Жёлтая лягушка</FrogYellow.labelFemale>
+  <FrogYellow.labelFemalePlural>Жёлтые лягушки</FrogYellow.labelFemalePlural>
+
+
+</LanguageData>

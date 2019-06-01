@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Hyena -->
+
+  <Hyena.label>Гиена</Hyena.label>
+  <Hyena.labelPlural>Гиены</Hyena.labelPlural>
+  <Hyena.lifeStages.0.label>Молодая гиена</Hyena.lifeStages.0.label>
+  <Hyena.lifeStages.0.labelPlural>Молодые гиены</Hyena.lifeStages.0.labelPlural>
+  <Hyena.lifeStages.0.labelMale>Молодая гиена</Hyena.lifeStages.0.labelMale>
+  <Hyena.lifeStages.0.labelMalePlural>Молодые гиены</Hyena.lifeStages.0.labelMalePlural>
+  <Hyena.lifeStages.0.labelFemale>Молодая гиена</Hyena.lifeStages.0.labelFemale>
+  <Hyena.lifeStages.0.labelFemalePlural>Молодые гиены</Hyena.lifeStages.0.labelFemalePlural>
+
+  <Hyena.lifeStages.1.label>Гиена</Hyena.lifeStages.1.label>
+  <Hyena.lifeStages.1.labelPlural>Гиены</Hyena.lifeStages.1.labelPlural>
+  <Hyena.lifeStages.1.labelMale>Гиена</Hyena.lifeStages.1.labelMale>
+  <Hyena.lifeStages.1.labelMalePlural>Гиены</Hyena.lifeStages.1.labelMalePlural>
+  <Hyena.lifeStages.1.labelFemale>Гиена</Hyena.lifeStages.1.labelFemale>
+  <Hyena.lifeStages.1.labelFemalePlural>Гиены</Hyena.lifeStages.1.labelFemalePlural>
+
+  <Hyena.lifeStages.2.label>Гиена</Hyena.lifeStages.2.label>
+  <Hyena.lifeStages.2.labelPlural>Гиены</Hyena.lifeStages.2.labelPlural>
+  <Hyena.lifeStages.2.labelMale>Гиена</Hyena.lifeStages.2.labelMale>
+  <Hyena.lifeStages.2.labelMalePlural>Гиены</Hyena.lifeStages.2.labelMalePlural>
+  <Hyena.lifeStages.2.labelFemale>Гиена</Hyena.lifeStages.2.labelFemale>
+  <Hyena.lifeStages.2.labelFemalePlural>Гиены</Hyena.lifeStages.2.labelFemalePlural>
+
+  <Hyena.labelMale>Гиена</Hyena.labelMale>
+  <Hyena.labelMalePlural>Гиены</Hyena.labelMalePlural>
+  <Hyena.labelFemale>Гиена</Hyena.labelFemale>
+  <Hyena.labelFemalePlural>Гиены</Hyena.labelFemalePlural>
+
+
+</LanguageData>

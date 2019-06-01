@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Alligator.label>Аллигатор</Alligator.label>
+  <Alligator.description>Аллигаторы - это опасные хищники и не должны быть недооцененны. Своей широкой нижней челюстью они мгновенно убивают добычу.</Alligator.description>
+  <Alligator.tools.left_claw.label>Левые когти</Alligator.tools.left_claw.label>
+  <Alligator.tools.right_claw.label>Правые когти</Alligator.tools.right_claw.label>
+  <Alligator.tools.head.label>Голова</Alligator.tools.head.label>
+  <Alligator.race.meatLabel>Мясо аллигатора</Alligator.race.meatLabel>
+</LanguageData>

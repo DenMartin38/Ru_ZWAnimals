@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <Goat.label>Козёл</Goat.label>
+  <Goat.description>Козёл.</Goat.description>
+  <Goat.tools.left_hoof.label>Левое копыто</Goat.tools.left_hoof.label>
+  <Goat.tools.right_hoof.label>Правое копыто</Goat.tools.right_hoof.label>
+  <Goat.tools.head.label>Голова</Goat.tools.head.label>
+
+</LanguageData>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Sheep.label>Овца</Sheep.label>
+  <Sheep.description>Овца.</Sheep.description>
+  <Sheep.tools.left_hoof.label>Левое копыто</Sheep.tools.left_hoof.label>
+  <Sheep.tools.right_hoof.label>Правое копыто</Sheep.tools.right_hoof.label>
+  <Sheep.tools.head.label>Голова</Sheep.tools.head.label>
+
+</LanguageData>

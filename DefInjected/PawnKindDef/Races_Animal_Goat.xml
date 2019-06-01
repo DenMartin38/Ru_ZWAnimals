@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Goat -->
+
+  <Goat.label>Козёл</Goat.label>
+  <Goat.labelPlural>Козлы</Goat.labelPlural>
+  <Goat.lifeStages.0.label>Молодой козёл</Goat.lifeStages.0.label>
+  <Goat.lifeStages.0.labelPlural>Молодые козлы</Goat.lifeStages.0.labelPlural>
+  <Goat.lifeStages.0.labelMale>Козлик</Goat.lifeStages.0.labelMale>
+  <Goat.lifeStages.0.labelMalePlural>Козлики</Goat.lifeStages.0.labelMalePlural>
+  <Goat.lifeStages.0.labelFemale>Козочка</Goat.lifeStages.0.labelFemale>
+  <Goat.lifeStages.0.labelFemalePlural>Козочки</Goat.lifeStages.0.labelFemalePlural>
+
+  <Goat.lifeStages.1.label>Козёл</Goat.lifeStages.1.label>
+  <Goat.lifeStages.1.labelPlural>Козлы</Goat.lifeStages.1.labelPlural>
+  <Goat.lifeStages.1.labelMale>Козёл</Goat.lifeStages.1.labelMale>
+  <Goat.lifeStages.1.labelMalePlural>Козлы</Goat.lifeStages.1.labelMalePlural>
+  <Goat.lifeStages.1.labelFemale>Коза</Goat.lifeStages.1.labelFemale>
+  <Goat.lifeStages.1.labelFemalePlural>Козы</Goat.lifeStages.1.labelFemalePlural>
+
+  <Goat.lifeStages.2.label>Козёл</Goat.lifeStages.2.label>
+  <Goat.lifeStages.2.labelPlural>Козлы</Goat.lifeStages.2.labelPlural>
+  <Goat.lifeStages.2.labelMale>Козёл</Goat.lifeStages.2.labelMale>
+  <Goat.lifeStages.2.labelMalePlural>Козлы</Goat.lifeStages.2.labelMalePlural>
+  <Goat.lifeStages.2.labelFemale>Коза</Goat.lifeStages.2.labelFemale>
+  <Goat.lifeStages.2.labelFemalePlural>Козы</Goat.lifeStages.2.labelFemalePlural>
+
+  <Goat.labelMale>Козёл</Goat.labelMale>
+  <Goat.labelMalePlural>Козлы</Goat.labelMalePlural>
+  <Goat.labelFemale>Коза</Goat.labelFemale>
+  <Goat.labelFemalePlural>Козы</Goat.labelFemalePlural>
+
+
+</LanguageData>

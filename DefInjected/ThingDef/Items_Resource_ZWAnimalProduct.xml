@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!--=====================================================================-->
+  <!--=============================== Misc ================================-->
+  <!--=====================================================================-->
+
+  <!-- Frog -->
+
+  <EggFrogUnfertilized.label>Икра лягушки (неопл.)</EggFrogUnfertilized.label>
+  <EggFrogUnfertilized.description>Неоплодотворённая икра лягушки. Может быть съедено сырым, но приготовленное оно гораздо вкуснее.</EggFrogUnfertilized.description>
+
+  <EggFrogFertilized.label>Икра лягушки (опл.)</EggFrogFertilized.label>
+  <EggFrogFertilized.description>Оплодотворённая икра лягушки. Если всё пойдёт хорошо, в скором времени из него вылупится лягушонок. Может быть съедено сырым, но приготовленное оно гораздо вкуснее.</EggFrogFertilized.description>
+
+  <!-- Alligator -->
+
+  <EggAlligatorUnfertilized.label>Яйцо аллигатора (неопл.)</EggAlligatorUnfertilized.label>
+  <EggAlligatorUnfertilized.description>Неоплодотворённое яйцо аллигатора. Может быть съедено сырым, но приготовленное оно гораздо вкуснее.</EggAlligatorUnfertilized.description>
+
+  <EggAlligatorFertilized.label>Яйцо аллигатора (опл.)</EggAlligatorFertilized.label>
+  <EggAlligatorFertilized.description>Оплодотворённое яйцо аллигатора. Если всё пойдёт хорошо, в скором времени из него вылупится аллигатор. Может быть съедено сырым, но приготовленное оно гораздо вкуснее.</EggAlligatorFertilized.description>
+
+</LanguageData>

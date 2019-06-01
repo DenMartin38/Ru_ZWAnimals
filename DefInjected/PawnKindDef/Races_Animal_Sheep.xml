@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Sheep -->
+
+  <Sheep.label>Овца</Sheep.label>
+  <Sheep.labelPlural>Овцы</Sheep.labelPlural>
+  <Sheep.lifeStages.0.label>Ягнёнок</Sheep.lifeStages.0.label>
+  <Sheep.lifeStages.0.labelPlural>Ягнята</Sheep.lifeStages.0.labelPlural>
+  <Sheep.lifeStages.0.labelMale>Ягнёнок</Sheep.lifeStages.0.labelMale>
+  <Sheep.lifeStages.0.labelMalePlural>Ягнята</Sheep.lifeStages.0.labelMalePlural>
+  <Sheep.lifeStages.0.labelFemale>Ягнёнок</Sheep.lifeStages.0.labelFemale>
+  <Sheep.lifeStages.0.labelFemalePlural>Ягнята</Sheep.lifeStages.0.labelFemalePlural>
+
+  <Sheep.lifeStages.1.label>Овца</Sheep.lifeStages.1.label>
+  <Sheep.lifeStages.1.labelPlural>Овцы</Sheep.lifeStages.1.labelPlural>
+  <Sheep.lifeStages.1.labelMale>Баран</Sheep.lifeStages.1.labelMale>
+  <Sheep.lifeStages.1.labelMalePlural>Бараны</Sheep.lifeStages.1.labelMalePlural>
+  <Sheep.lifeStages.1.labelFemale>Овца</Sheep.lifeStages.1.labelFemale>
+  <Sheep.lifeStages.1.labelFemalePlural>Овцы</Sheep.lifeStages.1.labelFemalePlural>
+
+  <Sheep.lifeStages.2.label>Овца</Sheep.lifeStages.2.label>
+  <Sheep.lifeStages.2.labelPlural>Овцы</Sheep.lifeStages.2.labelPlural>
+  <Sheep.lifeStages.2.labelMale>Баран</Sheep.lifeStages.2.labelMale>
+  <Sheep.lifeStages.2.labelMalePlural>Бараны</Sheep.lifeStages.2.labelMalePlural>
+  <Sheep.lifeStages.2.labelFemale>Овца</Sheep.lifeStages.2.labelFemale>
+  <Sheep.lifeStages.2.labelFemalePlural>Овцы</Sheep.lifeStages.2.labelFemalePlural>
+
+  <Sheep.labelMale>Баран</Sheep.labelMale>
+  <Sheep.labelMalePlural>Бараны</Sheep.labelMalePlural>
+  <Sheep.labelFemale>Овца</Sheep.labelFemale>
+  <Sheep.labelFemalePlural>Овцы</Sheep.labelFemalePlural>
+
+
+</LanguageData>

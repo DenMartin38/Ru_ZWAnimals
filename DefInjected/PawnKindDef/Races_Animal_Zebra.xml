@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Zebra -->
+
+  <Zebra.label>Зебра</Zebra.label>
+  <Zebra.labelPlural>Зебры</Zebra.labelPlural>
+  <Zebra.lifeStages.0.label>Зебра</Zebra.lifeStages.0.label>
+  <Zebra.lifeStages.0.labelPlural>Зебры</Zebra.lifeStages.0.labelPlural>
+  <Zebra.lifeStages.0.labelMale>Зебра</Zebra.lifeStages.0.labelMale>
+  <Zebra.lifeStages.0.labelMalePlural>Зебры</Zebra.lifeStages.0.labelMalePlural>
+  <Zebra.lifeStages.0.labelFemale>Зебра</Zebra.lifeStages.0.labelFemale>
+  <Zebra.lifeStages.0.labelFemalePlural>Зебры</Zebra.lifeStages.0.labelFemalePlural>
+
+  <Zebra.lifeStages.1.label>Зебра</Zebra.lifeStages.1.label>
+  <Zebra.lifeStages.1.labelPlural>Зебры</Zebra.lifeStages.1.labelPlural>
+  <Zebra.lifeStages.1.labelMale>Зебра</Zebra.lifeStages.1.labelMale>
+  <Zebra.lifeStages.1.labelMalePlural>Зебры</Zebra.lifeStages.1.labelMalePlural>
+  <Zebra.lifeStages.1.labelFemale>Зебра</Zebra.lifeStages.1.labelFemale>
+  <Zebra.lifeStages.1.labelFemalePlural>Зебры</Zebra.lifeStages.1.labelFemalePlural>
+
+  <Zebra.lifeStages.2.label>Зебра</Zebra.lifeStages.2.label>
+  <Zebra.lifeStages.2.labelPlural>Зебры</Zebra.lifeStages.2.labelPlural>
+  <Zebra.lifeStages.2.labelMale>Зебра</Zebra.lifeStages.2.labelMale>
+  <Zebra.lifeStages.2.labelMalePlural>Зебры</Zebra.lifeStages.2.labelMalePlural>
+  <Zebra.lifeStages.2.labelFemale>Зебра</Zebra.lifeStages.2.labelFemale>
+  <Zebra.lifeStages.2.labelFemalePlural>Зебры</Zebra.lifeStages.2.labelFemalePlural>
+
+  <Zebra.labelMale>Зебра</Zebra.labelMale>
+  <Zebra.labelMalePlural>Зебры</Zebra.labelMalePlural>
+  <Zebra.labelFemale>Зебра</Zebra.labelFemale>
+  <Zebra.labelFemalePlural>Зебры</Zebra.labelFemalePlural>
+
+
+</LanguageData>

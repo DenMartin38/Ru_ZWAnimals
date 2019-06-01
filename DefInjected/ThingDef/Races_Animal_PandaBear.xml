@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <PandaBear.label>Панда</PandaBear.label>
+  <PandaBear.description>Самая поразительная особенность панды, вероятно, её чёрно-белый цвет. Они очень дружелюбные существа.</PandaBear.description>
+  <PandaBear.tools.left_claw.label>Левая лапа</PandaBear.tools.left_claw.label>
+  <PandaBear.tools.right_claw.label>Правая лапа</PandaBear.tools.right_claw.label>
+  <PandaBear.tools.head.label>Голова</PandaBear.tools.head.label>
+  <PandaBear.race.meatLabel>Мясо панды</PandaBear.race.meatLabel>
+
+</LanguageData>

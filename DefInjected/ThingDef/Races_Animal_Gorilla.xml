@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <Gorilla.label>Горилла</Gorilla.label>
+  <Gorilla.description>Горилла - крупнейший вид человекообразных обезьян и представитель отряда приматов. Они обладают массивным телом и невероятной силой.</Gorilla.description>
+  <Gorilla.tools.left_fist.label>Левый кулак</Gorilla.tools.left_fist.label>
+  <Gorilla.tools.right_fist.label>Правый кулак</Gorilla.tools.right_fist.label>
+  <Gorilla.tools.head.label>Голова</Gorilla.tools.head.label>
+  <Gorilla.race.meatLabel>Мясо гориллы</Gorilla.race.meatLabel>
+
+</LanguageData>

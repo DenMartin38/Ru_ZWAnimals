@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Mammoth -->
+
+  <Mammoth.label>Мамонт</Mammoth.label>
+  <Mammoth.labelPlural>Мамонты</Mammoth.labelPlural>
+  <Mammoth.lifeStages.0.label>Молодой мамонт</Mammoth.lifeStages.0.label>
+  <Mammoth.lifeStages.0.labelPlural>Молодые мамонты</Mammoth.lifeStages.0.labelPlural>
+  <Mammoth.lifeStages.0.labelMale>Молодой мамонт</Mammoth.lifeStages.0.labelMale>
+  <Mammoth.lifeStages.0.labelMalePlural>Молодые мамонты</Mammoth.lifeStages.0.labelMalePlural>
+  <Mammoth.lifeStages.0.labelFemale>Молодой мамонт</Mammoth.lifeStages.0.labelFemale>
+  <Mammoth.lifeStages.0.labelFemalePlural>Молодые мамонты</Mammoth.lifeStages.0.labelFemalePlural>
+
+  <Mammoth.lifeStages.1.label>Мамонт</Mammoth.lifeStages.1.label>
+  <Mammoth.lifeStages.1.labelPlural>Мамонты</Mammoth.lifeStages.1.labelPlural>
+  <Mammoth.lifeStages.1.labelMale>Мамонт</Mammoth.lifeStages.1.labelMale>
+  <Mammoth.lifeStages.1.labelMalePlural>Мамонты</Mammoth.lifeStages.1.labelMalePlural>
+  <Mammoth.lifeStages.1.labelFemale>Мамонт</Mammoth.lifeStages.1.labelFemale>
+  <Mammoth.lifeStages.1.labelFemalePlural>Мамонты</Mammoth.lifeStages.1.labelFemalePlural>
+
+  <Mammoth.lifeStages.2.label>Мамонт</Mammoth.lifeStages.2.label>
+  <Mammoth.lifeStages.2.labelPlural>Мамонты</Mammoth.lifeStages.2.labelPlural>
+  <Mammoth.lifeStages.2.labelMale>Мамонт</Mammoth.lifeStages.2.labelMale>
+  <Mammoth.lifeStages.2.labelMalePlural>Мамонты</Mammoth.lifeStages.2.labelMalePlural>
+  <Mammoth.lifeStages.2.labelFemale>Мамонт</Mammoth.lifeStages.2.labelFemale>
+  <Mammoth.lifeStages.2.labelFemalePlural>Мамонты</Mammoth.lifeStages.2.labelFemalePlural>
+
+  <Mammoth.labelMale>Мамонт</Mammoth.labelMale>
+  <Mammoth.labelMalePlural>Мамонты</Mammoth.labelMalePlural>
+  <Mammoth.labelFemale>Мамонт</Mammoth.labelFemale>
+  <Mammoth.labelFemalePlural>Мамонты</Mammoth.labelFemalePlural>
+
+
+</LanguageData>

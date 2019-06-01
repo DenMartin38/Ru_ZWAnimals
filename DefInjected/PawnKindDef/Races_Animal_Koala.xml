@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Koala -->
+
+  <Koala.label>Коала</Koala.label>
+  <Koala.labelPlural>Коалы</Koala.labelPlural>
+  <Koala.lifeStages.0.label>Молодая коала</Koala.lifeStages.0.label>
+  <Koala.lifeStages.0.labelPlural>Молодые коалы</Koala.lifeStages.0.labelPlural>
+  <Koala.lifeStages.0.labelMale>Молодая коала</Koala.lifeStages.0.labelMale>
+  <Koala.lifeStages.0.labelMalePlural>Молодые коалы</Koala.lifeStages.0.labelMalePlural>
+  <Koala.lifeStages.0.labelFemale>Молодая коала</Koala.lifeStages.0.labelFemale>
+  <Koala.lifeStages.0.labelFemalePlural>Молодые коалы</Koala.lifeStages.0.labelFemalePlural>
+
+  <Koala.lifeStages.1.label>Коала</Koala.lifeStages.1.label>
+  <Koala.lifeStages.1.labelPlural>Коалы</Koala.lifeStages.1.labelPlural>
+  <Koala.lifeStages.1.labelMale>Коала</Koala.lifeStages.1.labelMale>
+  <Koala.lifeStages.1.labelMalePlural>Коалы</Koala.lifeStages.1.labelMalePlural>
+  <Koala.lifeStages.1.labelFemale>Коала</Koala.lifeStages.1.labelFemale>
+  <Koala.lifeStages.1.labelFemalePlural>Коалы</Koala.lifeStages.1.labelFemalePlural>
+
+  <Koala.lifeStages.2.label>Коала</Koala.lifeStages.2.label>
+  <Koala.lifeStages.2.labelPlural>Коалы</Koala.lifeStages.2.labelPlural>
+  <Koala.lifeStages.2.labelMale>Коала</Koala.lifeStages.2.labelMale>
+  <Koala.lifeStages.2.labelMalePlural>Коалы</Koala.lifeStages.2.labelMalePlural>
+  <Koala.lifeStages.2.labelFemale>Коала</Koala.lifeStages.2.labelFemale>
+  <Koala.lifeStages.2.labelFemalePlural>Коалы</Koala.lifeStages.2.labelFemalePlural>
+
+  <Koala.labelMale>Коала</Koala.labelMale>
+  <Koala.labelMalePlural>Коалы</Koala.labelMalePlural>
+  <Koala.labelFemale>Коала</Koala.labelFemale>
+  <Koala.labelFemalePlural>Коалы</Koala.labelFemalePlural>
+
+
+</LanguageData>

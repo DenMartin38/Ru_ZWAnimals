@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Donkey.label>Осёл</Donkey.label>
+  <Donkey.description>Осёл.</Donkey.description>
+  <Donkey.tools.left_hoof.label>Левое копыто</Donkey.tools.left_hoof.label>
+  <Donkey.tools.right_hoof.label>Правое копыто</Donkey.tools.right_hoof.label>
+  <Donkey.tools.head.label>Голова</Donkey.tools.head.label>
+
+</LanguageData>

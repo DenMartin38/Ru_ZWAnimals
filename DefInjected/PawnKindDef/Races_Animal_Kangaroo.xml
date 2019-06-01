@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Kangaroo -->
+
+  <Kangaroo.label>Кенгуру</Kangaroo.label>
+  <Kangaroo.labelPlural>Кенгуру</Kangaroo.labelPlural>
+  <Kangaroo.lifeStages.0.label>Кенгурёнок</Kangaroo.lifeStages.0.label>
+  <Kangaroo.lifeStages.0.labelPlural>Кенгурята</Kangaroo.lifeStages.0.labelPlural>
+  <Kangaroo.lifeStages.0.labelMale>Кенгурёнок</Kangaroo.lifeStages.0.labelMale>
+  <Kangaroo.lifeStages.0.labelMalePlural>Кенгурята</Kangaroo.lifeStages.0.labelMalePlural>
+  <Kangaroo.lifeStages.0.labelFemale>Кенгурёнок</Kangaroo.lifeStages.0.labelFemale>
+  <Kangaroo.lifeStages.0.labelFemalePlural>Кенгурята</Kangaroo.lifeStages.0.labelFemalePlural>
+
+  <Kangaroo.lifeStages.1.label>Кенгуру</Kangaroo.lifeStages.1.label>
+  <Kangaroo.lifeStages.1.labelPlural>Кенгуру</Kangaroo.lifeStages.1.labelPlural>
+  <Kangaroo.lifeStages.1.labelMale>Кенгуру</Kangaroo.lifeStages.1.labelMale>
+  <Kangaroo.lifeStages.1.labelMalePlural>Кенгуру</Kangaroo.lifeStages.1.labelMalePlural>
+  <Kangaroo.lifeStages.1.labelFemale>Кенгуру</Kangaroo.lifeStages.1.labelFemale>
+  <Kangaroo.lifeStages.1.labelFemalePlural>Кенгуру</Kangaroo.lifeStages.1.labelFemalePlural>
+
+  <Kangaroo.lifeStages.2.label>Кенгуру</Kangaroo.lifeStages.2.label>
+  <Kangaroo.lifeStages.2.labelPlural>Кенгуру</Kangaroo.lifeStages.2.labelPlural>
+  <Kangaroo.lifeStages.2.labelMale>Кенгуру</Kangaroo.lifeStages.2.labelMale>
+  <Kangaroo.lifeStages.2.labelMalePlural>Кенгуру</Kangaroo.lifeStages.2.labelMalePlural>
+  <Kangaroo.lifeStages.2.labelFemale>Кенгуру</Kangaroo.lifeStages.2.labelFemale>
+  <Kangaroo.lifeStages.2.labelFemalePlural>Кенгуру</Kangaroo.lifeStages.2.labelFemalePlural>
+
+  <Kangaroo.labelMale>Кенгуру</Kangaroo.labelMale>
+  <Kangaroo.labelMalePlural>Кенгуру</Kangaroo.labelMalePlural>
+  <Kangaroo.labelFemale>Кенгуру</Kangaroo.labelFemale>
+  <Kangaroo.labelFemalePlural>Кенгуру</Kangaroo.labelFemalePlural>
+
+
+</LanguageData>

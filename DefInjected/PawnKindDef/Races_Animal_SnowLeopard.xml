@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Snow Leopard -->
+
+  <SnowLeopard.label>Снежный леопард</SnowLeopard.label>
+  <SnowLeopard.labelPlural>Снежные леопарды</SnowLeopard.labelPlural>
+  <SnowLeopard.lifeStages.0.label>Молодой снежный леопард</SnowLeopard.lifeStages.0.label>
+  <SnowLeopard.lifeStages.0.labelPlural>Молодые снежные леопарды</SnowLeopard.lifeStages.0.labelPlural>
+  <SnowLeopard.lifeStages.0.labelMale>Молодой снежный леопард</SnowLeopard.lifeStages.0.labelMale>
+  <SnowLeopard.lifeStages.0.labelMalePlural>Молодые снежные леопарды</SnowLeopard.lifeStages.0.labelMalePlural>
+  <SnowLeopard.lifeStages.0.labelFemale>Молодой снежный леопард</SnowLeopard.lifeStages.0.labelFemale>
+  <SnowLeopard.lifeStages.0.labelFemalePlural>Молодые снежные леопарды</SnowLeopard.lifeStages.0.labelFemalePlural>
+
+  <SnowLeopard.lifeStages.1.label>Снежный леопард</SnowLeopard.lifeStages.1.label>
+  <SnowLeopard.lifeStages.1.labelPlural>Снежные леопарды</SnowLeopard.lifeStages.1.labelPlural>
+  <SnowLeopard.lifeStages.1.labelMale>Снежный леопард</SnowLeopard.lifeStages.1.labelMale>
+  <SnowLeopard.lifeStages.1.labelMalePlural>Снежные леопарды</SnowLeopard.lifeStages.1.labelMalePlural>
+  <SnowLeopard.lifeStages.1.labelFemale>Снежный леопард</SnowLeopard.lifeStages.1.labelFemale>
+  <SnowLeopard.lifeStages.1.labelFemalePlural>Снежные леопарды</SnowLeopard.lifeStages.1.labelFemalePlural>
+
+  <SnowLeopard.lifeStages.2.label>Снежный леопард</SnowLeopard.lifeStages.2.label>
+  <SnowLeopard.lifeStages.2.labelPlural>Снежные леопарды</SnowLeopard.lifeStages.2.labelPlural>
+  <SnowLeopard.lifeStages.2.labelMale>Снежный леопард</SnowLeopard.lifeStages.2.labelMale>
+  <SnowLeopard.lifeStages.2.labelMalePlural>Снежные леопарды</SnowLeopard.lifeStages.2.labelMalePlural>
+  <SnowLeopard.lifeStages.2.labelFemale>Снежный леопард</SnowLeopard.lifeStages.2.labelFemale>
+  <SnowLeopard.lifeStages.2.labelFemalePlural>Снежные леопарды</SnowLeopard.lifeStages.2.labelFemalePlural>
+
+  <SnowLeopard.labelMale>Снежный леопард</SnowLeopard.labelMale>
+  <SnowLeopard.labelMalePlural>Снежные леопарды</SnowLeopard.labelMalePlural>
+  <SnowLeopard.labelFemale>Снежный леопард</SnowLeopard.labelFemale>
+  <SnowLeopard.labelFemalePlural>Снежные леопарды</SnowLeopard.labelFemalePlural>
+
+
+</LanguageData>

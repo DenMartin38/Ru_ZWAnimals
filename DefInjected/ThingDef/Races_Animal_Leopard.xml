@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <Leopard.label>Леопард</Leopard.label>
+  <Leopard.description>Один из четырёх представителей, относящегося к подсемейству больших кошек. Леопард охотится бесшумно и в одиночку. Он тихо подкрадывается к добыче и, если подобрался достаточно близко, прыгает, нанося смертельные раны.</Leopard.description>
+  <Leopard.tools.left_claw.label>Левые когти</Leopard.tools.left_claw.label>
+  <Leopard.tools.right_claw.label>Правые когти</Leopard.tools.right_claw.label>
+  <Leopard.tools.head.label>Голова</Leopard.tools.head.label>
+  <Leopard.race.meatLabel>Мясо леопарда</Leopard.race.meatLabel>
+
+</LanguageData>
